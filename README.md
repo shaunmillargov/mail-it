@@ -10,7 +10,7 @@ docker-compose up
 
 ### Containers
 
-#### mailhog
+#### mailhog (Fake) email service endpoint for development. 
 
 A [mailhog](https://github.com/mailhog/MailHog) instance accessible at [http://localhost:8025/](http://localhost:8025/)
 
